@@ -6,3 +6,9 @@
 offset_right = 1149.0
 offset_bottom = 645.0
 color = Color(1, 0.3529412, 1, 1)
+
+[node name="ColorRect2" type="ColorRect" parent="." unique_id=1600818442]
+offset_left = -502.0
+offset_top = 4.0
+offset_right = -3.0
+offset_bottom = 1095.0
